@@ -1,0 +1,4 @@
+aws_region         = "us-east-1"
+notification_email = "you@example.com"
+instance_type      = "t3.micro"
+auto_remediate     = false
